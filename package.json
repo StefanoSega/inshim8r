@@ -1,0 +1,30 @@
+{
+  "name": "inshim8r",
+  "version": "0.1.0",
+  "description": "Library for shimming plain old JS files to import them",
+  "main": "dist/inshim8r.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StefanoSega/inshim8r.git"
+  },
+  "keywords": [
+    "shim",
+    "amd",
+    "umd",
+    "modules"
+  ],
+  "author": "Stefano Sega",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/StefanoSega/inshim8r/issues"
+  },
+  "homepage": "https://github.com/StefanoSega/inshim8r#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^2.0.0",
+    "pump": "^1.0.1"
+  }
+}
