@@ -1,6 +1,6 @@
 {
   "name": "inshim8r",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Library for shimming plain old JS files to import them",
   "main": "dist/inshim8r.js",
   "scripts": {
